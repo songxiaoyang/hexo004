@@ -8,6 +8,8 @@ rss: /atom.xml
 excerpt_link: Read More
 fancybox: true
 
+language: zh-Hans
+
 # Sidebar
 sidebar: right
 widgets:
