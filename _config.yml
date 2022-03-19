@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 数据在手，天下我有！加微信：songyang-6，发几毛钱红包，给你发文章密码。
-subtitle:
+title: 数据在手，天下我有！
+subtitle: 为防小人举报和网警稽查，敏感文章已加密，密码不止一个，加微信：songyang-6，发几毛钱红包，给你发文章密码。
 description:
 keywords:
 author: laoman
@@ -36,10 +36,10 @@ external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
-relative_link: false
+relative_link: true
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace:
@@ -73,8 +73,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-# theme: mashiro
+# theme: landscape
+theme: mashiro
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
