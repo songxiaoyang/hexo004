@@ -3,8 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 数据在手，天下我有！（公众号：数据为煌。QQ群：667329352）
-subtitle: 老蛮历年经典长文已整理成书，83万字，加微信：songyang-6，有偿获取。
+#title: 数据在手，天下我有！（公众号：数据为煌。QQ群：667329352）
+#subtitle: 老蛮历年经典长文已整理成书，83万字，加微信：songyang-6，有偿获取。
+title: 数据在手，天下我有！
+subtitle: 老蛮最新微博号：数据轰战机。
 description:  
 keywords:
 author: laoman
